@@ -1,6 +1,6 @@
 # Nezumi Quickstart
 
-A template for quickly making a game using [Nezumi](https://github.com/<you>/nezumi).
+A template for quickly making a game using [Nezumi](https://github.com/ddigiorg/nezumi).
 
 ## Instructions
 
